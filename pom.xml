@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.160.203:8081/repository/pay-releases/</url>
+	      <url>http://15.206.160.203:8081/repository/pipe-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.160.203:8081/repository/pay-snap/</url>
+	      <url>http://15.206.160.203:8081/repository/pipe-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
